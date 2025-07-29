@@ -9,6 +9,7 @@ public class TestApplication {
 	public static void main(String[] args) {
 		int x=10;
 		int y=20;
+		float m=10.3f;
 		SpringApplication.run(TestApplication.class, args);
 	}
 
